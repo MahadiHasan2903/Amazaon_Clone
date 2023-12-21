@@ -15,7 +15,7 @@ const app = express();
 // app.use(cors({ origin: "http://localhost:3000", credentials: true }));
 app.use(
   cors({
-    origin: "https://amazon-clone-client-mern.vercel.app",
+    origin: "https://amazaon-clone-client.vercel.app",
     credentials: true,
   })
 );
